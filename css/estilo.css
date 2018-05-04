@@ -1,0 +1,23 @@
+body{
+  background-image:url(../img/fondo.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: comic;
+}
+
+#logo{
+  max-width: 200px;
+  max-height: 250px;
+}
+#redes{
+  max-height: 50px;
+  max-width: 50px;
+}
+
+#img1{
+  max-height: 300px;
+}
+#simg2{
+  max-height: 400px;
+}
